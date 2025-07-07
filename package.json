@@ -7,6 +7,9 @@
     "ed25519-hd-key": "^1.0.1",
     "stellar-sdk": "^10.6.1"
   },
+  "scripts": {
+    "build": "echo 'No build step needed'"
+  },
   "engines": {
     "node": "18.x"
   }
