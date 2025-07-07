@@ -1,5 +1,5 @@
 {
-  "name": "pi-claim-bot",
+  "name": "Pi-Auto-V3",
   "version": "1.0.1",
   "description": "Bot otomatis untuk klaim dan transfer Pi di jaringan Pi Network menggunakan Stellar SDK.",
   "main": "bot.js",
@@ -17,7 +17,7 @@
     "bot",
     "telegram"
   ],
-  "author": "zendsdeveloper",
+  "author": "zendsdecode",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.8.4",
